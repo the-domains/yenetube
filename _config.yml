@@ -1,0 +1,14 @@
+layout_spectrum: 0.6774194
+color:
+  saturation: 1
+  lightness: 0.5878136
+  brandStrength: 0.6577061
+  rhythmicContrast: 0.7885305
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+typography_spectrum: 0.7154149
+name: YeneTube
